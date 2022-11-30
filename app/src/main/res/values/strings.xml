@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SecondProject</string>
+    <string name="hello_world">Hello World</string>
+    <string name="my_plain">My plain</string>
+    <string name="view_the_second_activity">View the second Activity</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="logo">Logo</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login">Login:</string>
+    <string name="input_name">Input name</string>
+    <string name="password">Password</string>
+    <string name="view_the_third_activity">View the third Activity</string>
+    <string name="submit">Submit</string>
+    <string name="press_submit_button_and_see_result">Press Submit button and see result</string>
+    <string name="poster">Poster</string>
+    <string name="avatar">avatar</string>
+    <string name="released_date">released</string>
+    <string name="version_trailer">version trailer</string>
+    <string name="overview">overview</string>
+</resources>
