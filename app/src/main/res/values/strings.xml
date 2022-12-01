@@ -18,4 +18,9 @@
     <string name="released_date">released</string>
     <string name="version_trailer">version trailer</string>
     <string name="overview">overview</string>
+    <string name="first_text_view">First text view</string>
+    <string name="third_text_view">Third text view</string>
+    <string name="second_text_view">Second text view</string>
+    <string name="press_me">Press me</string>
+    <string name="title">Title</string>
 </resources>
